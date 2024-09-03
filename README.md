@@ -7,9 +7,7 @@ Installation
 
 This code has a number of required dependencies which have to be pre-installed to work. They include:
 
-numpy
-pandas
-matplotlib
+numpy, pandas, matplotlib
 
 Also need to download and save the 2016 Seattle AirBnb data (https://www.kaggle.com/datasets/airbnb/seattle/data) and the 2016/2017 Boston AirBnb data (https://www.kaggle.com/datasets/airbnb/boston). 
 
