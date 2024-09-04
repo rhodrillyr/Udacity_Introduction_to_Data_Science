@@ -1,4 +1,4 @@
-**Project 1: Where should you visit if you're on a budget - Seattle or Boston? Let's look at the data.**
+**Project 1: Where should you visit in the USA if you're on a budget - West or East?.**
 
 Code allowing the analysis of the AirBnb data between Seattle and Boston to determine which destination is the best value for money.
 
