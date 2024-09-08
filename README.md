@@ -16,6 +16,10 @@ Also need to download and save the 2016 Seattle AirBnb data (https://www.kaggle.
 
 The motivation behind this project was to analyse the trends between the two locations at similar periods to hopefully see if we get better value for our money at one location compared to the other. 
 
+**Summary**
+
+From this analysis it was concluded that better value for money can be found at Seattle compared to Boston, with it being even cheaper during the least popular times. We also found that most reviews were happy with the location of the listings in Seattle, which is a key component of AirBnbs.
+
 **Files**
 
 Jupyter notebook including the code used to run the analysis: Nanodegree_Course_2.ipynb.
